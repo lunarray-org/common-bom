@@ -29,7 +29,7 @@
 	<parent>
 		<groupId>org.lunarray.common</groupId>
 		<artifactId>parent</artifactId>
-		<version>1-SNAPSHOT</version>
+		<version>1</version>
 	</parent>
 
 	<scm>
