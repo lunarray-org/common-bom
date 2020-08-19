@@ -38,6 +38,14 @@
 		<url>https://github.com/lunarray-org/common-bom</url>
 	</scm>
 
+	<distributionManagement>
+		<snapshotRepository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/lunarray-org/common-bom</url>
+		</snapshotRepository>
+	</distributionManagement>
+	
 	<properties>
 		<!-- Compile/Runtime -->
 		<commons-lang.version>2.6</commons-lang.version>
